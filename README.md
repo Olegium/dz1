@@ -6,9 +6,9 @@
 #include <QLabel>
 #include <QLineEdit>
 #include <QPushButton>
-```
 class Widget: public QWidget{
 public:
+```
     Widget() {
         QVBoxLayout *layout = new QVBoxLayout(this);// создали стол
 
