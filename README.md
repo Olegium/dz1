@@ -1,4 +1,4 @@
-# dz1
+```bash
 #include <QTextEdit>
 #include <QApplication>
 #include <QWidget>
@@ -6,7 +6,7 @@
 #include <QLabel>
 #include <QLineEdit>
 #include <QPushButton>
-
+```
 class Widget: public QWidget{
 public:
     Widget() {
